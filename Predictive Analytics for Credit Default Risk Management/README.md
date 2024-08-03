@@ -1,6 +1,4 @@
-Sure, I'll convert the content of your document into a format suitable for a README.md file for GitHub. Below is the transformed content in Markdown format.
 
-```markdown
 Predictive Analytics for Credit Default Risk Management
 
 **BY:**
