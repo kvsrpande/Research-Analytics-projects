@@ -1,5 +1,4 @@
-
-Predictive Analytics for Credit Default Risk Management
+# Predictive Analytics for Credit Default Risk Management
 
 **BY:**
 - Venkata Siva Ram Pande Kalivela, MSc in Economics, University of North Texas.
