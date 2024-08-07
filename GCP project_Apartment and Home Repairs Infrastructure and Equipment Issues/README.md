@@ -70,4 +70,3 @@ The project successfully identified key issues in apartment and home repairs and
 2. Phoenix Open Data Property Maintenance Dataset: [Link](https://www.phoenixopendata.com/dataset/property-maintenance-data)
 3. Individual Assistance Housing Registrants - Large Disasters (NEMIS) Dataset: [Link](https://catalog.data.gov/dataset/individual-assistance-housing-registrants-large-disasters-nemis)
 
----
